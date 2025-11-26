@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salman — DevOps Engineer
+# 👋 Hi, I'm Salman Khan — DevOps & cloud Engineer
 
 Welcome to my GitHub profile! I am a passionate *DevOps Engineer* with hands-on experience in Linux, Docker, Kubernetes, GitHub Actions, git0ps, Jenkins, CI/CD pipelines, AWS, and cloud-native tools. I enjoy automating workflows, improving deployment processes, and building reliable systems.
 
