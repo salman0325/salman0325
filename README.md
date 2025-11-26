@@ -39,14 +39,6 @@ Welcome to my GitHub profile! I am a passionate *DevOps Engineer* with hands-on 
 - trivy 
 
 ---
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salman&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman&layout=compact&theme=tokyonight)
-
----
-
 ## 🧩 DevOps Projects
 ### 🔹 *1. CI/CD Pipeline Using Jenkins & GitHub*
 Automated build, test, and deployment pipeline using Jenkins.
