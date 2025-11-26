@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate *DevOps Engineer* with hands-on 
 - GitHub Actions
 - Jenkins
 - CI/CD Pipelines
-- gitOps
+- Argocd
 - AWS (EC2,IAM,S3,ECR,ECS,VPC)
 - Terraform
 
