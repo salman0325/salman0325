@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Salman Khan 
 
-Welcome to my GitHub profile! I am a passionate *DevOps Engineer* with hands-on experience in Linux, Docker, Kubernetes, GitHub Actions, git0ps, Jenkins, CI/CD pipelines, AWS, and cloud-native tools. I enjoy automating workflows, improving deployment processes, and building reliable systems.
+Welcome to my GitHub profile! I am a Associate *DevOps Engineer in Corvids lab * with hands-on experience in Linux, Docker, Kubernetes, GitHub Actions, git0ps, Jenkins, CI/CD pipelines, AWS, and cloud-native tools. I enjoy automating workflows, improving deployment processes, and building reliable systems.
 
 ---
 
 ## 🚀 About Me
-- 🔧 *DevOps Engineer* focusing on automation and cloud-native technologies
+- 🔧 *Associate DevOps Engineer* focusing on automation and cloud-native technologies
 - 🐧 Strong in *Linux, **Shell scripting*, and system administration
 - 🐳 Skilled in *Docker*, containerization, and microservices
 - ☸️ Experience with *Kubernetes* deployment and management
